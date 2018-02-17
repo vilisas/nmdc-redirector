@@ -57,7 +57,7 @@ $greetingMessage .= "\n\n|";	# simbolis | gale butinas
 
 print 
 "
-DC Redirector script, version: $scriptVersion
+NMDC Redirector script, version: $scriptVersion
 Listening port is: $listenPort
 Our \"HUB\" name is: '$hubName'
 ";
